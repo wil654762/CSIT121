@@ -1,0 +1,22 @@
+h1{color: black;
+font-family: Calibri;
+margin:10px;}
+
+h2{color: #6E2C00;
+font-family:Avenir;
+margin:10px;}
+
+body{background-color:#DC7633;
+color: black;
+font-family: Bangla Sangam MN, sans-serif;
+margin-lefft:10px;
+margin-bottom: 20px;
+text-transform: none;}
+
+p{color: #6E2C00;
+font-family: Arial;
+margin-bottom: 20px;
+margin-left: 5px;}
+
+a {color: green;
+text-decoration: underline;}
