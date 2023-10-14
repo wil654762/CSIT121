@@ -1,0 +1,42 @@
+body{
+  background-color:#FF69B4;
+  background-image:url(https://pub-static.fotor.com/assets/bg/83ff74b6-f4cd-4efc-8bee-0c652905e265.png);
+padding:10px;}
+header{font-weight:bold;
+  font-size:1.5em;
+  letter-spacing:.1em;
+  background-color:#E19FFF;
+  text-align:center;
+font-family:"Bangla MN",Sans-serif;
+padding-top:5px;
+padding-bottom:0.5px;}
+
+#wrapper{background-color:#F6E3FF;
+margin: auto;
+width:100%;}
+
+h2{text-align: center;}
+
+nav{background-color:white;
+  font-weight:bold;
+  font-size:1.5em;
+  text-align:center;
+  padding-top:10px;
+  padding-bottom:10px;
+border-top:1px solid;
+border-bottom:1px solid;}
+p{font-family:"Calibri",Sans-Serif;;
+padding-left:10px;
+border-bottom:1px;
+font-size:1.5em;}
+img
+{
+padding-bottom:5px;
+margin:20px;
+ padding-left:100px;
+}
+footer{text-align:left;
+  border-top:1px solid;
+  padding-top:5px;
+padding-bottom:5px;
+padding-left:10px;}
