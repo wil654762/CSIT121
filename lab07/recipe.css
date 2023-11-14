@@ -1,0 +1,49 @@
+h1{color: black;
+font-family: Calibri;
+margin:10px;}
+
+h2{color: #6E2C00;
+font-family:Avenir;
+margin:10px;}
+
+h3{color: black;
+  font-family: Avenir;}
+
+#wrapper{width:80%;
+margin:auto;}
+
+main{float: right;
+margin-left: 15px;}
+
+body{background-color:#DC7633;
+color: black;
+font-family: "Bangla Sangam MN", sans-serif;
+margin-left:10px;
+margin-bottom: 20px;
+text-transform: none;}
+
+
+p{color: #6E2C00;
+font-family: "Arial";
+margin-bottom: 20px;
+margin-left: 5px;}
+
+a {color: green;}
+img{border: 3px ridge #330000;
+border-radius: 15px;
+  border-style: ridge;
+box-shadow: 3px 3px 3px #330000}
+a:hover{color:blue;}
+
+@media screen and (max-width: 768px)
+{
+
+  body{color: white;}
+  p{font-family:"Times New Roman", san-serif;}
+  a{border-style: ridge; border-radius: 2px; padding: 1px;}
+}
+table {border:2px solid; padding: 5px}
+td{padding:3px; 
+border-bottom: dotted; font-weight: bold;}
+th{font-size:2em;
+text-align: left;}
