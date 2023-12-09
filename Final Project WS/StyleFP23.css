@@ -1,0 +1,154 @@
+body{
+  background-color:#FF69B4;
+  background-image:url(https://www.hdwallpapers.in/download/dark_purple_black_paint_liquid_stains_4k_hd_abstract-1920x1080.jpg);
+padding:1px;}
+
+header{font-weight:bold;
+  font-size:1.5em;
+  color:white;
+  letter-spacing:.1em;
+  background-color:#320163;
+  text-align:center;
+font-family:"Roboto",Sans-serif;
+padding-top:5px;
+padding-bottom:0.5px;}
+
+#wrapper{background-color:#F6E3FF;
+margin: auto;
+width:80%;}
+
+h2{text-align: center;
+font-size:25px;}
+
+.intro{text-align:center;
+margin-left:250px;}
+
+p{font-family:"Roboto",Sans-Serif;
+padding-left:10px;
+  padding-bottom:10px;
+  padding-right:10px;
+border-bottom:1px;
+font-size:1.5em;
+width:70%;
+border: 3px outset;
+margin-bottom:50px;
+}
+
+.table{border:3px solid; 
+  padding:15px;
+width:250px;
+margin-left:150px;
+margin-bottom:65px;
+text-align:center;}
+td, th{border: 1px dotted;margin-bottom:5px;padding:3px;}
+h3{font-size:20px;}
+
+
+nav{background-color:white;
+  font-weight:bold;
+  font-size:1.5em;
+  text-align:center;
+  padding-top:10px;
+  padding-bottom:10px;
+border-top:5px solid;
+border-bottom:5px solid;}
+
+.homepagepic img{border:5px solid green;
+width:400px;
+height:268px;
+padding:5px;
+margin-left:345px;
+margin-bottom:20px;
+background-color:white;
+}
+
+.artistname{font-size:40px; 
+margin:auto;
+width:40%;
+text-align:center;
+padding:1px;
+}
+
+.artistpicRap img{border:5px solid black;
+  padding:25px;
+width:301px;
+height:376px;
+  background-color:pink;
+margin-left:70px;
+  margin-right:10px;
+  }
+.artistpicPop img{border:5px solid black;
+  padding:25px;
+width:492px;
+height:287px;
+  background-color:pink;
+margin-left:22px;
+  margin-right:10px;
+  }
+
+.artistpicRnb img{border:5px solid black;
+  padding:25px;
+width:375px;
+height:375px;
+  background-color:pink;
+margin-left:22px;
+  margin-right:10px;
+  }
+
+.artistbio{
+padding:45px;
+font-size:10px;
+  margin:10px;
+width:50%;
+text-align:left;}
+
+
+
+.discog{float:right;
+border:5px dotted;
+margin-right:70px;
+margin-left:30px;
+padding: 10px;}
+
+.trackotwtitle{font-size:32px;}
+
+.trackotwname{font-size:22px;
+text-align:center;
+padding-bottom:2px;
+color:green;}
+
+
+.top3tracks{font-size:35px;
+text-align:center;
+padding:10px;
+color:black;
+padding-top:60px;}
+
+.listtrack{text-align:left;
+font-size:20px;
+color:green;}
+
+.commentbox{float:right;
+border:5px dotted;
+  margin-right:55px;
+  font-size:20px;
+}
+
+@media screen and (max-width: 768px)
+{body{color:blue;}
+  .homepagepic img{margin-left:90px;}
+  .intro{text-align:center;
+margin-left:120px;}
+  .table{margin-left:30px;}
+  .discog{float:left;margin-bottom:30px;margin-left:120px;}
+  .artistpicRap img{margin-left:120px;}
+  .artistpicRnb img{margin-left:80px;}
+  .artistbio{width:95%;margin-left:60px;font-size:9px;}
+  .commentbox{font-size:10px;margin-left:20px;float:right;}
+}
+
+footer{text-align:left;
+  border-top:1px solid;
+  padding-top:5px;
+padding-bottom:5px;
+padding-left:10px;}
